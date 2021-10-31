@@ -1,5 +1,8 @@
 # Dimensionality Reduction
 
+Cory Randolph
+10/29/2021
+
 This Notebook demonstrates various dimensionality reduction processes:
 - PCA
 - SVD
