@@ -24,7 +24,5 @@ Another interesting result was how each method found a letter "K" that looked si
 
 
 
-Provides a high level summary of the process and model used to analyze customer churn in [Customer Churn Prediction](https://www.researchgate.net/publication/351798270_Telecom_Churn_Prediction_System_Based_on_Ensemble_Learning_Using_Feature_Grouping) by Senthilnayaki B, Swetha M, Nivedha D. 
-
 
 <br /> <br /> <br />
