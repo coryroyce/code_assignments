@@ -18,7 +18,11 @@ Below are the results of each method and the index of the approximate match that
 
 While all methods returned the same set of indices for similar vectors the it's important to not that during the process some methods would provide slightly different results based on the random state of the UMAP data reduction or the random state of the sampling method used to reduce the number of dimensions from 728 down to 100.
 
-<img align="left" width="250" height="150" src="https://github.com/coryroyce/code_assignments/blob/main/211106_Customer_Chrurn_Article/Customer_Churn_Pic.png">
+<img src="https://github.com/coryroyce/code_assignments/blob/main/211124_Approximate_Nearest_Neighbor_Search/reference/image_original_search_vector_A.png">
+
+<br />
+
+<img src="https://github.com/coryroyce/code_assignments/blob/main/211124_Approximate_Nearest_Neighbor_Search/reference/image_original_search_vector_A.png">
 
 Another interesting result was how each method found a letter "K" that looked similar to an "A" (original search vector). See the below images for reference: 
 
