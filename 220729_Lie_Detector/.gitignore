@@ -1,1 +1,5 @@
 **/.venv
+*.mp4
+**/*.pm4
+*.DS_Store
+**/*.DS_Store
