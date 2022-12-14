@@ -1,6 +1,11 @@
 # Cards
 
-**TODO: Add description**
+Initial Project to Practice Elixir Basics
+
+## Run Elixir
+
+After changing to the root directory of the Elixir Project, activate the interactive Elixir Shell byt running:
+`iex -S mix`
 
 ## Installation
 
